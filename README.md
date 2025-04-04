@@ -1,4 +1,5 @@
-# NEXUS-1
+# NEXUS-1 nxs
+
 Robot Systems Solutions
 
 Body whole and parts. 
@@ -8,3 +9,22 @@ Toward a system of systems (SoS) body to integrate general artifcial intelligenc
 Reductionism. Materialism. Holarchies.
 
 lower order priority. Andriod phone app control for Nexus-1 robot.
+
+See also
+* Electrical engineering een [WS](https://github.com/YorkEarwaker/Electrical-Engineering/tree/main)
+
+## Status
+
+TODO
+* <todo: consider, sensor, servo motor response, >
+
+DONE
+* <done: intent to commit>
+
+## Reference
+
+Terms
+* Robotics, 
+* Cybernetics, [WP]
+(https://en.wikipedia.org/wiki/Cybernetics), not transhumanism!, not cyborgs!
+
