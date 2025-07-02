@@ -25,6 +25,8 @@ DONE
 
 Terms
 * Robotics, 
-* Cybernetics, [WP]
-(https://en.wikipedia.org/wiki/Cybernetics), not transhumanism!, not cyborgs!
+* Cybernetics, [WP](https://en.wikipedia.org/wiki/Cybernetics), not transhumanism!, not cyborgs!
+
+Interesting blogs
+* RTFMs [WS](https://rtfms.com/tag/rtfms), science, robotics, 
 
