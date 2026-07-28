@@ -17,6 +17,9 @@ See also
 
 TODO
 * <todo: consider, sensor, servo motor response, >
+* <todo: consider, bulldozer drone subproject, firefighting, wildfires, firewaves, T shirt size S M L, what does that look like particularly for urban interface WUI and use in urban settings as well as wild or agricultural settings, low human harm potential, minimise operator risk, enhance performance beyond human heat and smoke tollerances, how might such a drone plus modules be used from SAR and MEDIVAC >
+* <todo: consider, aerial firefighter drone, Firefighting, wildfires, firewaves, T shirt size S M L, Phos-Chek, Water, how might such a drone be used from SAR and MEDIVAC >
+* <todo: consider, water born firefighter drone, Firefighting, wildfires, firewaves, T shirt size S M L, Phos-Chek, Water, how might such a drone be used from SAR and MEDIVAC >
 
 DONE
 * <done: intent to commit>
